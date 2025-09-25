@@ -17,3 +17,8 @@ AWS Identity and access management
    * How to create User?
    * How to create Usergroup?
    * How to create access key?
+
+AWS Roles and Policies 
+  * Example Scenario
+    * How to create Roles?
+    * How to create policies?
